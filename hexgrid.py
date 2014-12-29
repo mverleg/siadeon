@@ -1,11 +1,11 @@
 
-'''
+"""
 	# hexagonal game grid
 	# using axial coordinates (at 60 deg)
 	# (0, 0) at the center
 	# grid should be hexagon-periodic
 	# http://www.redblobgames.com/grids/hexagons/
-'''
+"""
 
 # divisable into clusters that can be changed (with restart?) of unequal size,
 #	perhaps the most efficient way is rhombus clusters as boundaries are clear
